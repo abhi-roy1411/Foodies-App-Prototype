@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="foodies">FOODIES</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register_here">Register here</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About app</string>
+    <string name="welcome">WELCOME</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="close_drawer">close Drawer</string>
+    <string name="open_drawer">open Drawer</string>
+    <string name="about_app_fragment">About app fragment</string>
+    <string name="favourites_fragment">Favourites fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="list_item">List Item</string>
+    <string name="paneer_butter_masala">Paneer butter masala</string>
+    <string name="rs_140">Rs-140/-</string>
+    <string name="_4_5">4.5</string>
+</resources>
