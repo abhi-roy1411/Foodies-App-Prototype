@@ -14,7 +14,6 @@ class DashboardRecyclerAdapter(val context: Context , val itemList: ArrayList<St
     class DashboardViewHolder(view: View): RecyclerView.ViewHolder(view){
         val textView: TextView = view.findViewById(R.id.Item1)
         val Price = view.findViewById<TextView>(R.id.price)
-        val Rating = view.findViewById<TextView>(R.id.rating)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DashboardViewHolder {
@@ -30,6 +29,5 @@ class DashboardRecyclerAdapter(val context: Context , val itemList: ArrayList<St
         val text = itemList[position]
         holder.textView.text = text
         holder.Price.text = text
-        holder.Rating.text = text
     }
 }
